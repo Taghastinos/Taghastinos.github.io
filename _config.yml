@@ -1,3 +1,17 @@
-theme: jekyll-theme-minimal
-title:  homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "AI & Research Portfolio"
+description: "Portfolio showcasing artificial intelligence, computer vision, Python, and wildlife conservation research."
+url: "https://taghastinos.github.io"
+baseurl: ""
+
+author:
+  name: "YOUR NAME"
+  email: "YOUR-EMAIL@example.com"
+
+theme: minima
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+show_excerpts: true
